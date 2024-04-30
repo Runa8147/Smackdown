@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Spider-Man (Peter Parker)",
+      "image_url": "spiderman.jpeg",
+      "elo_rating": 1700
+    },
+    {
+      "name": "Iron Man (Tony Stark)",
+      "image_url": "tony.jpeg",
+      "elo_rating": 1700
+    },
+    {
+      "name": "Captain America (Steve Rogers)",
+      "image_url": "captain.jpeg",
+      "elo_rating": 1700
+    },
+    {
+        "name": "wolverine",
+        "image_url": "wolverine.jpg",
+        "elo_rating": 1700
+    },
+    {
+        "name": "doctor strange",
+        "image_url": "doctor.jpeg",
+        "elo_rating": 1700
+    },
+    {
+        "name": "Super man",
+        "image_url": "superman.jpeg",
+        "elo_rating": 1700
+    },
+    {
+        "name": "black widow",
+        "image_url": "black.jpeg",
+        "elo_rating": 1700
+    },
+    {
+        "name": "loki",
+        "image_url": "loki.jpeg",
+        "elo_rating": 1700
+    }
+  ]
+  

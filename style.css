@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .battlefield {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .hero-container {
+    text-align: center;
+  }
+  
+  .hero-container img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .vs {
+    font-size: 3em;
+    margin: 0 20px;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #vote-hero1 {
+    background-color: #f44336; /* Red */
+    color: white;
+  }
+  
+  #vote-hero2 {
+    background-color: #007bff; /* Blue */
+    color: white;
+  }
+  
